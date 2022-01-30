@@ -72,7 +72,7 @@
   (pad 3 smd rect (at -2 -10.65 270) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -2 -11.15 270) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -2 -11.65 270) (size 0.3 1.1) (layers F.Cu F.Paste F.Mask))
-  (model ../3dshapes/s62684_501100alf.stp
+  (model ${CMUMFORD_COMPONENTS}/3dshapes/s62684_501100alf.stp
     (offset (xyz 1 -0.6 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 180 90))
