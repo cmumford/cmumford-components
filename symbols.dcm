@@ -13,6 +13,7 @@ $ENDCMP
 #
 $CMP 62684-50110
 D 50-pin 0.5mm pitch top-contact FPC SMT Connector
+F https://cdn-shop.adafruit.com/datasheets/62684.pdf
 $ENDCMP
 #
 $CMP LY68L6400SLIT
