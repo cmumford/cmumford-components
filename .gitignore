@@ -1,2 +1,4 @@
 # FreeCAD temporary files.
 *.FCStd1
+
+.DS_Store
