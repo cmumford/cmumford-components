@@ -382,7 +382,7 @@
     (property "Value" "DS1338U-33+" (id 1) (at 11.43 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -1.27 -25.4 0)
+    (property "Footprint" "Package_SO:TSSOP-8_3x3mm_P0.65mm" (id 2) (at -1.27 -25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -2.54 -27.94 0)
