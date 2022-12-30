@@ -164,6 +164,9 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "Product" "https://smile.amazon.com/gp/product/B082GFTZQD" (id 4) (at 1.27 11.43 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "2inch_LCD_Module_240x320_ST7789V_board_0_0"
       (pin power_in line (at 0 0 0) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
