@@ -794,6 +794,244 @@
       )
     )
   )
+  (symbol "AQY412SX" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+    (property "Reference" "U" (at 0 15.24 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Value" "AQY412SX" (at 0 11.43 0)
+      (effects (font (size 1.524 1.524)))
+    )
+    (property "Footprint" "cmumford_components:RELAY_AQY_SO4_41X_PAN" (at 1.27 -13.97 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "Datasheet" "https://www3.panasonic.biz/ac/e_download/control/relay/photomos/catalog/semi_eng_gu1b_aqy41_s.pdf" (at 0 -16.51 0)
+      (effects (font (size 1.27 1.27) italic) hide)
+    )
+    (property "ki_keywords" "AQY412SX" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "SSR RELAY SPST-NC 500MA 0-60V" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_fp_filters" "RELAY_AQY_SO4_41X_PAN" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "AQY412SX_0_1"
+      (polyline
+        (pts
+          (xy -8.255 -0.635)
+          (xy -4.445 -0.635)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -6.35 -3.81)
+          (xy -11.43 -3.81)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -6.35 3.81)
+          (xy -11.43 3.81)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -6.35 3.81)
+          (xy -6.35 -3.81)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.2283 -4.4272)
+          (xy 2.8517 -0.6172)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -2.2283 -0.6172)
+          (xy 2.3437 2.8118)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.2167 -0.6172)
+          (xy -2.2283 -0.6172)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.2167 -0.6172)
+          (xy 2.8517 -0.6172)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 -2.7168)
+          (xy 7.3993 -2.7168)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 -2.0818)
+          (xy 5.4943 -3.3518)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 -0.8118)
+          (xy 7.3993 -0.8118)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 -0.1768)
+          (xy 5.4943 -1.4468)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 0.4582)
+          (xy 5.4943 1.7282)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 1.0932)
+          (xy 7.3993 1.0932)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.3993 -2.7168)
+          (xy 7.3993 -6.5268)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.3993 -1.4468)
+          (xy 7.3993 3.6332)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.3993 3.6332)
+          (xy 7.3993 -0.8118)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.3993 3.6332)
+          (xy 7.3993 2.3632)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.4301 -6.457)
+          (xy 9.9701 -6.457)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 9.9701 3.703)
+          (xy 7.4301 3.703)
+        )
+        (stroke (width 0.127) (type default))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 5.4943 -0.8118)
+          (xy 6.7643 -0.1768)
+          (xy 6.7643 -1.4468)
+        )
+        (stroke (width 0) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy -4.445 1.27)
+          (xy -8.255 1.27)
+          (xy -6.35 -0.635)
+          (xy -4.445 1.27)
+        )
+        (stroke (width 0) (type default))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.8517 3.1928)
+          (xy 1.5817 3.1928)
+          (xy 2.7247 2.1768)
+          (xy 2.8517 3.1928)
+        )
+        (stroke (width 0) (type default))
+        (fill (type outline))
+      )
+    )
+    (symbol "AQY412SX_1_1"
+      (text_box ""
+        (at -11.43 8.89 0) (size 22.86 -20.32)
+        (stroke (width 0) (type default))
+        (fill (type color) (color 0 0 0 0))
+        (effects (font (size 1.27 1.27)) (justify left top))
+      )
+      (pin unspecified line (at -13.97 3.81 0) (length 2.54)
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line (at -13.97 -3.81 0) (length 2.54)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line (at 13.97 -6.35 180) (length 2.54)
+        (name "3" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+      (pin unspecified line (at 13.97 3.81 180) (length 2.54)
+        (name "4" (effects (font (size 1.27 1.27))))
+        (number "4" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
   (symbol "Adafruit_Feather_nRF52840_Express" (pin_numbers hide) (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -1.27 24.13 0)
       (effects (font (size 1.27 1.27)))
