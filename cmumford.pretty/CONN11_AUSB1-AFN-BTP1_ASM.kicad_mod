@@ -94,7 +94,7 @@
   (pad "15" thru_hole oval (at 9.399999 1.21 90) (size 3.5052 1.2192) (drill 0.0254) (layers "*.Cu" "*.Mask") (tstamp a52adbe6-604e-49ab-a56c-e818d73d3eb5))
   (pad "16" thru_hole oval (at -3.400001 6.71 90) (size 3.5052 1.2192) (drill 0.0254) (layers "*.Cu" "*.Mask") (tstamp 389d1be5-a54a-4ea7-874a-45004963d0c7))
   (pad "17" thru_hole oval (at 9.399999 6.71 90) (size 3.5052 1.2192) (drill 0.0254) (layers "*.Cu" "*.Mask") (tstamp b089862b-fe5b-4574-86b9-cf276e32603c))
-  (model "/Users/chris/src/usb-tester/board/cmumford-components/3dshapes/usb3_ausb1-afn-btp1.stp"
+  (model "${CMUMFORD_COMPONENTS}/3dshapes/usb3_ausb1-afn-btp1.stp"
     (offset (xyz 3 -13.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))

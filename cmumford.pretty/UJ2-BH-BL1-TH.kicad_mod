@@ -78,7 +78,7 @@
     (solder_mask_margin 0.102) (tstamp 457f257c-7186-43a8-b04e-e6a5b8fae399))
   (pad "SH2" thru_hole circle (at 4.77 4.71) (size 3.316 3.316) (drill 2.3) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp c43cb67b-0f6c-4f2c-add6-060ca5fb03f0))
-  (model "/Users/chris/src/usb-tester/board/cmumford-components/3dshapes/CUI_DEVICES_UJ2-BH-BL1-TH.step"
+  (model "${CMUMFORD_COMPONENTS}/3dshapes/CUI_DEVICES_UJ2-BH-BL1-TH.step"
     (offset (xyz -1.25 -14.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

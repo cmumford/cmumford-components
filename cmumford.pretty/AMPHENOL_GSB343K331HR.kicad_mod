@@ -76,7 +76,7 @@
     (solder_mask_margin 0.102) (tstamp 121140ee-e477-489e-acbf-fec5d695185a))
   (pad "S2" thru_hole oval (at 6.275 0) (size 0.9 1.8) (drill oval 0.5 1.3) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp c93a3cea-1930-4a8e-a66a-4da121a9a31d))
-  (model "/Users/chris/src/usb-tester/board/cmumford-components/3dshapes/GSB343K331HR.step"
+  (model "${CMUMFORD_COMPONENTS}/3dshapes/GSB343K331HR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -506,7 +506,7 @@
     (solder_mask_margin 0.102) (tstamp 473931cc-9ae6-4968-8bc2-a08de5096ca5))
   (pad "S6" thru_hole oval (at 3.525 0) (size 0.75 1.5) (drill oval 0.55 1.2) (layers "*.Cu" "*.Mask")
     (solder_mask_margin 0.102) (tstamp 5f45c4ec-c80c-42d6-a2d2-3d187a9ab724))
-  (model "/Users/chris/src/usb-tester/board/cmumford-components/3dshapes/10118194-0001LF.step"
+  (model "${CMUMFORD_COMPONENTS}/3dshapes/10118194-0001LF.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
