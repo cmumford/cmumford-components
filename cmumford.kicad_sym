@@ -17383,7 +17383,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Si470x"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17800,14 +17800,6 @@
 				)
 				(fill
 					(type background)
-				)
-			)
-			(text "Si4703"
-				(at -4.064 11.938 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 		)
