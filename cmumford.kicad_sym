@@ -18332,8 +18332,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 6.35 3.81 0)
+		(property "Value" "TPA6111A2"
+			(at 6.858 9.144 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18531,14 +18531,6 @@
 				)
 				(fill
 					(type background)
-				)
-			)
-			(text "TPA6111A2"
-				(at 7.112 9.144 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 		)
