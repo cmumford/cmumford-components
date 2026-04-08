@@ -1,0 +1,143 @@
+(footprint "PTN16-A10120K1A2"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "POT 10K OHM 1/8W CARBON LOG")
+	(tags "Potentiometer")
+	(property "Reference" "REF**"
+		(at -3 -8.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f9987bea-f8cb-478a-8a90-d257013ff5d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "PTN16-A10120K1A2"
+		(at -1 8.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a82c3c30-76e0-4975-8bd9-c144a7954bd2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.sameskydevices.com/product/resource/ptn16.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "734e7d65-716c-4b0a-b71c-c5184262f0d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "10k Ohm 2 Gang Logarithmic Through Hole Potentiometer 1.0 Turns Carbon 0.125W, 1/8W PC Pins"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "932fc85e-2edb-4071-ae0a-9ce14346570a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -4.5 -7.5)
+		(end 5 7.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fa921df4-ffaf-4c42-bd81-2c6c150f6bde")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.25 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5da045cb-16b2-45b6-93a9-db39a07c5c6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.5 5)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "77a77055-fb11-4bdc-936e-bac479474b7e")
+	)
+	(pad "2" thru_hole circle
+		(at -2.5 0)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "02d00427-7902-44f6-836c-3399ed798750")
+	)
+	(pad "3" thru_hole circle
+		(at -2.5 -5)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "35844c5a-78de-4a9d-9780-00d5a4204264")
+	)
+	(pad "4" thru_hole circle
+		(at 2.5 5)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6ce2acfb-8922-45cd-a7e5-f40cb4d27ad6")
+	)
+	(pad "5" thru_hole circle
+		(at 2.5 0)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c8f249ce-99b0-4ce9-b545-55c989d169ff")
+	)
+	(pad "6" thru_hole circle
+		(at 2.5 -5)
+		(size 2.5 2.5)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "03ced95e-4678-4e11-bd9e-1270fea63ae0")
+	)
+	(embedded_fonts no)
+	(model "${CMUMFORD_COMPONENTS}/3dshapes/PTN16-A10120K1A2.step"
+		(offset
+			(xyz 4.5 0 12.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
